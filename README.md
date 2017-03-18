@@ -1,5 +1,3 @@
-# monolayer-highlighter
+# projectile-simulator
 
-This repo demonstrates simple code to run through pixel values in Processing viewing windows.
-
-This code is geared towards highlighting target colors and blacking out non-target colors. This functionality can easily be applied to other uses.
+Created for Physics 41A. This code simulates objects thrown either on flat or slanted planes.
